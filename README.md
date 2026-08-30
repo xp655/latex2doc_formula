@@ -1,0 +1,2 @@
+# latex2doc_formula
+latex公式批量转docx专业格式
